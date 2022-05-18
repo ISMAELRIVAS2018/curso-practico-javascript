@@ -64,3 +64,12 @@ console.log("El area del circulo es: " + areaCirculo + "cm^2");
 
 console.group();
 
+// Aqui interactuamos con el html
+function calcularPerimetroCuadrado() {
+
+}
+
+function calcularAreaCuadrado() {
+    
+}
+
